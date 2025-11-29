@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DnyanDeepH
 - 👀 I’m interested in Everthing related to Technology
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyandeepholge) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@H_Deep_) 
