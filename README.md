@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+intelligent+systems+🤖;Full+Stack+%7C+AI+%7C+ML+%7C+Computer+Vision;Turning+ideas+into+scalable+solutions+🚀)](https://git.io/typing-svg)
 
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyandeepholge)
