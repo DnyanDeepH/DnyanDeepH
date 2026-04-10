@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyandeepholge)
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@H_Deep_)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@DnyanDeep_H)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DnyanDeepH)
 [![Profile Views](https://komarev.com/ghpvc/?username=DnyanDeepH&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DnyanDeepH)
 
@@ -227,7 +227,7 @@ class DnyanDeepH:
 I'm always open to interesting conversations, collaboration on open-source projects, or just geeking out about tech.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyandeepholge)
-[![Twitter / X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@H_Deep_)
+[![Twitter / X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@DnyanDeep_H)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DnyanDeepH)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
