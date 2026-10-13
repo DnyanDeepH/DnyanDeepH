@@ -1,81 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Dnyandeep Holge 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DnyanDeepH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a8b2d8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full-Stack+Developer;MCA+Graduate+@+LPU+(CGPA%3A+8.40%2F10);Building+Scalable+REST+APIs+%26+AI-Driven+Systems;Problem+Solver+•+150%2B+LeetCode+Problems)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://linkedin.com/in/dnyandeepholge">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/DnyanDeepH/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://github.com/DnyanDeepH">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:dnyandeepholge57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-MCA graduate and Software Engineer with solid foundations in **Data Structures, Algorithms, Object-Oriented Programming, and System Design**. Experienced in engineering end-to-end full-stack applications, distributed microservices, and AI/Computer Vision systems.
-
-- 🎓 **Education**: Master of Computer Applications (MCA) – Lovely Professional University *(CGPA: 8.40 / 10)*
-- 💼 **Focus**: Full-Stack Development, REST APIs, Real-Time Applications & Intelligent Systems
-- 🧠 **AI/ML Experience**: Computer Vision (YOLOv8, OpenCV), LLM Orchestration (Gemini API, RAG), and Machine Learning pipelines
-- ⚡ **Problem Solving**: 150+ algorithmic challenges solved on LeetCode & active university hackathon participant
-- 📍 **Location**: India
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-#### Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cpp,py,js,html,css&theme=dark" alt="Languages" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+intelligent+systems+🤖;Full+Stack+%7C+AI+%7C+ML+%7C+Computer+Vision;Turning+ideas+into+scalable+solutions+🚀)](https://git.io/typing-svg)
 
 <br/>
 
-#### Backend & Frontend Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,django,react,redux&theme=dark" alt="Frameworks" />
-</a>
-
-<br/>
-
-#### Databases & Storage
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="Databases" />
-</a>
-
-<br/>
-
-#### Cloud, DevOps & Tools
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman&theme=dark" alt="Tools & Cloud" />
-</a>
-
-<br/>
-
-#### AI, Machine Learning & Vision
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="AI / Vision" />
-</a>
-<br/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" alt="YOLOv8" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/LLMs_%26_RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="LLMs & RAG" />
-<img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyandeepholge)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@H_Deep_)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DnyanDeepH)
+[![Profile Views](https://komarev.com/ghpvc/?username=DnyanDeepH&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DnyanDeepH)
 
 </div>
 
@@ -182,16 +116,34 @@ MCA graduate and Software Engineer with solid foundations in **Data Structures, 
 
 <div align="center">
 
-### 🤝 Let's Connect
+[![DnyanDeepH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DnyanDeepH&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-Open to full-time Software Engineering roles, collaborative open-source projects, and technical discussions.
+</div>
 
-<a href="mailto:dnyandeepholge57@gmail.com">
-  <img src="https://img.shields.io/badge/Get_In_Touch-dnyandeepholge57@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Me" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/dnyandeepholge">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
+---
+
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+I'm always open to interesting conversations, collaboration on open-source projects, or just geeking out about tech.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnyandeepholge)
+[![Twitter / X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@H_Deep_)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DnyanDeepH)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
